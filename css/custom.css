@@ -229,7 +229,7 @@ section{
         width: 100%;
     }
 }
-
+}
 .contact{
     color: #fff;
     background-color: #151921;
@@ -357,12 +357,13 @@ section{
 
 
 footer{
-    background-color: #121721;
+    background-color: #280753;
     padding: 25px 23px;
     color: #fff;
     text-align: center;
     margin-top: auto;
     font-family: 'Poppins', sans-serif;
+    width: 100%;
 }
 footer span a{
     color: #547ec7;
