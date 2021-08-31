@@ -36,7 +36,7 @@ body{
     z-index: 999;
     padding: 20px 0;
     font-family: 'Ubuntu', sans-serif;
-    background-color: #121721;
+    background-color: #280753;
     /*background-color: none;*/
     border-bottom: solid #1b202a 1px;
 }
@@ -48,7 +48,7 @@ body{
                                      que ele coloque espaço entre os itens utilizando o espaço disponível)*/
 }
 .navbar .logo a{
-    color: #942121;
+    color: #d9d0ee;
     font-size: 35px;
     font-weight: 500;
 }
@@ -148,14 +148,14 @@ section{
 }
 .top .top-content a{
     display: inline-block;
-    background: #b02ab7;
-    color: #fff;
+    background: #330274;
+    color: rgb(248, 248, 248);
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 300;
     border-radius: 6px;
-    border: 2px solid #b02ab7;
+    border: 2px solid #b6b6b6;
     transition: all 0.3s ease;
 }
 .top .top-content a:hover{
@@ -173,6 +173,7 @@ section{
     margin: 40px 0;
     font-weight: 400;
     font-size: 35px;
+    color: #330274;
 }
 .services .serv-content{
     display: flex;
