@@ -118,7 +118,7 @@ section{
     display: flex;
     background: url('../images/topo_v2.jpg') no-repeat center;
     height: 100vh;
-    min-height: 500px;
+    min-height: 800px;
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
@@ -126,6 +126,12 @@ section{
 .top .max-width{
     width: 100%;
     display: flex;
+}
+.top .top-content .perfil{
+    width: 15%;
+    margin-top: 100px;
+    margin-left: 18px;
+    border-radius: 5%;
 }
 .top .top-content .text-1{
     font-size: 25px;
@@ -205,6 +211,12 @@ section{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+.services .serv-content .card .tecnologia1{
+   width: 50%;
+   display: flex ;
+   margin-left: 25%;
+   
+
 @media (max-width: 947px){
     .services .serv-content .card{
         width: calc(50% - 10px);
