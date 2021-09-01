@@ -114,14 +114,15 @@ section{
     }
 }
 .top{
-    color: #fff;
+    color: rgba(255, 255, 255, 0.87);
     display: flex;
-    background: url('../images/topo_v2.jpg') no-repeat center;
+    background: url('../images/topo_v6.jpg') no-repeat center;
     height: 100vh;
     min-height: 800px;
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
+    text-align:right;
 }
 .top .max-width{
     width: 100%;
@@ -132,6 +133,7 @@ section{
     margin-top: 100px;
     margin-left: 18px;
     border-radius: 5%;
+    
 }
 .top .top-content .text-1{
     font-size: 25px;
