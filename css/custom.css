@@ -373,3 +373,11 @@ footer span a{
 footer span a:hover{
     color: #fff;
 }
+/* estilização da página de certificado*/
+
+.selo-certificado{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 500px;
+   
+    
