@@ -175,7 +175,8 @@ section{
     margin: 40px 0;
     font-weight: 400;
     font-size: 35px;
-    color: #330274;
+    color: #f3f3f3;
+    
 }
 .services .serv-content{
     display: flex;
@@ -375,9 +376,10 @@ footer span a:hover{
 }
 /* estilização da página de certificado*/
 
-.selo-certificado{
+.max-width .selo-certificado{
     width: 50%;
     margin-top: 100px;
-    margin-left: 500px;
+    margin-left:60%;
+    padding: auto;
    
     
